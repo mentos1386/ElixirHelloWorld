@@ -53,6 +53,6 @@ config :hello, Hello.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
   password: "postgres",
-  database: "hello_dev",
+  database: "elixir-playground",
   hostname: "localhost",
   pool_size: 10
